@@ -1,1 +1,1 @@
-print('Hello rezii: D')
+print('Hello rezi: D')
